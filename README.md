@@ -37,4 +37,4 @@ Metrics Used in this Analysis
 6. Order Quantity
 7. Product category analysis
 
-![image]
+![image](https://github.com/ShrishtiHore/Ecommerce_Sales_Analysis/blob/main/Ecommerce%20Sales%20Analysis%20Dashboard.png)
